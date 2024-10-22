@@ -24,19 +24,32 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+"I'm a Full Stack Developer specializing in the MERN stack, currently pursuing a BE in CSE at Deccan College of Engineering & Technology. I enjoy building innovative and responsive web applications, focusing on user authentication and seamless user experiences.";
+
+
+  // "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  // "Web design",
+  // "User experience",
+  // "Inclusive design",
+  // "Focus group testing",
+  // "Mobile user interfaces",
+  // "Graphic design",
+  "Full Stack Development",
+  "User Authentication",
+  "Responsive Web Design",
+  "API Integration",
+  "Frontend & Backend Collaboration",
+  "Problem Solving",
+  "Teamwork",
+  "Tailwind CSS",
+  "React.js",
+  "Node.js",
 ];
 
 /**
@@ -45,7 +58,8 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+"I am passionate about creating dynamic and efficient web applications that solve real-world problems. My MERN stack expertise allows me to bridge the gap between frontend and backend development, driving both innovation and accessibility.";
+//   "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
 
 const About = () => {
   return (

@@ -30,30 +30,57 @@ const imageAltText = "desktop with books and laptop";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */
 const projectList = [
+  // {
+  //   title: "10 Things To Know About Azure Static Web Apps 🎉",
+  //   description:
+  //     "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+  //   url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+  // },
+  // {
+  //   title: "Web Development for Beginners",
+  //   description:
+  //     "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+  //   url: "https://github.com/microsoft/web-dev-for-beginners",
+  // },
+  // {
+  //   title: "My Resume Site",
+  //   description:
+  //     "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+  //   url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+  // },
+  // {
+  //   title: "GitHub Codespaces and github.dev",
+  //   description:
+  //     "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+  //   url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+  // },
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Twitter Clone App",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Built a MERN stack Twitter clone with features like posting tweets, following users, and image uploads using Cloudinary.",
+    url: "https://mini-project-ypqy.onrender.com/login",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Task Management System ",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A MERN stack application that helps users organize and manage tasks with categories and deadlines.",
+    url: "", 
   },
+{
+  title: "EduHub",
+  description:
+    "A MERN stack application that facilitates user authentication, profile editing, and resource management for educators, enabling students to view and download educational resources.",
+    url: "https://education-resource-center-mern-front.onrender.com/",
+},
+
   {
-    title: "My Resume Site",
+    title: "Recipe Finder 🍲",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    "A web app to search and view recipes based on ingredients. Users can save their favorites for easy access.",
+  
+    url: "https://recipe-finder-app-y9tx.onrender.com/",
   },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+  
 ];
 
 const Portfolio = () => {
